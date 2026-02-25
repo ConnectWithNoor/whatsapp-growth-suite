@@ -4,7 +4,7 @@
 
 **Send personalized WhatsApp messages to hundreds of contacts — from your own number, on your own machine.**
 
-[Download for Windows](https://github.com/ConnectWithNoor/whatsapp-growth-suite/releases/download/release/whatsapp-growth-suite-1.0.0-setup.exe) &nbsp;·&nbsp; [Download for Mac](#-download) - Coming Soon &nbsp;·&nbsp; [Download for Linux](#-download) - Coming Soon &nbsp;·&nbsp; [Quick Start](#-quick-start) &nbsp;·&nbsp; [Support](#-support)
+[Download for Windows](https://github.com/ConnectWithNoor/whatsapp-growth-suite/releases/download/release-v1.1/whatsapp-growth-suite-1.1.0-setup.exe) &nbsp;·&nbsp; [Download for Mac](#-download) - Coming Soon &nbsp;·&nbsp; [Download for Linux](#-download) - Coming Soon &nbsp;·&nbsp; [Quick Start](#-quick-start) &nbsp;·&nbsp; [Support](#-support)
 
 ---
 
